@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  /* user-select: none; */
+  /* overflow-x: hidden; */
+  min-height: 100vh;
+  position: relative;
+  max-width: 100vw;
+}
+
+html {
+  max-width: 100vw;
+}
